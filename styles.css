@@ -89,6 +89,7 @@ textarea:focus {
 	transition: all .3s;
 	scale: 1.5;
 	opacity: 0;
+	z-index: -1;
 }
 
 .blur {
